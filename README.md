@@ -9,7 +9,7 @@ Go to ./Graphic to see a graphical representation of process
 
 ## Usage
 
-./lemipc `pwd` [TEAM_NUMBER] -> Launch the process in a team.</br>
+./lemipc \`pwd\` [TEAM_NUMBER] -> Launch the process in a team.</br>
 We need at min 2 process in the same team and one other in a different team.
 
 ## Contributing
